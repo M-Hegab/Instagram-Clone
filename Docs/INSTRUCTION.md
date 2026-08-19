@@ -1,7 +1,7 @@
 Please strictly follow these rules:
 
 # Commands
-- Test: <cmd> Typecheck: <cmd> Lint: <cmd> Build: <cmd>
+- Test: `npm test` Typecheck: `npm run typecheck` Lint: `npm run lint` Build: `npm run build`
 
 # Skills
 - clean-code-guard, test-guard, docs-guard are mandatory, not suggestions.
